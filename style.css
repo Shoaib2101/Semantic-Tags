@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+nav{
+    margin-left: 43%;
+}
+a{
+    color: white;
+}
+.experience {
+  background-color:rgb(230, 107, 107);
+  color: rgb(83, 6, 6);
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
